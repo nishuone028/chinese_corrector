@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: pycorrector
+Version: 1.1.1
+Summary: Chinese Text Error Corrector
+Home-page: https://github.com/shibing624/pycorrector
+Author: XuMing
+Author-email: xuming624@qq.com
+License: Apache 2.0
+Keywords: pycorrector,correction,Chinese error correction,NLP
+Platform: Windows
+Platform: Linux
+Platform: Solaris
+Platform: Mac OS-X
+Platform: Unix
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: Chinese (Simplified)
+Classifier: Natural Language :: Chinese (Traditional)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Text Processing :: Linguistic
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: jieba
+Requires-Dist: pypinyin
+Requires-Dist: transformers
+Requires-Dist: datasets
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: six
+Requires-Dist: loguru
+Requires-Dist: pyahocorasick
